@@ -1,0 +1,19 @@
+{
+  "name": "nodetodoapp",
+  "version": "1.0.0",
+  "description": "practice for make web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamaokaYota/nodeTodoApp.git"
+  },
+  "author": "Yamaoka Yota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamaokaYota/nodeTodoApp/issues"
+  },
+  "homepage": "https://github.com/YamaokaYota/nodeTodoApp#readme"
+}
